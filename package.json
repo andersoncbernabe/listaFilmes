@@ -1,0 +1,23 @@
+{
+  "name": "listafilmes",
+  "version": "1.0.0",
+  "description": "Library show Movies",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersoncbernabe/listaFilmes.git"
+  },
+  "keywords": [
+    "Mostra",
+    "Filmes"
+  ],
+  "author": "Anderson <andersoncbernabe@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersoncbernabe/listaFilmes/issues"
+  },
+  "homepage": "https://github.com/andersoncbernabe/listaFilmes#readme"
+}
